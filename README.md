@@ -17,7 +17,7 @@ products:
 - azure-virtual-network
 - azure-monitor
 - azure-log-analytics
-name:  Deploy an OpenAI, LangChain, ChromaDB, and Chainlit chat app in Azure Container Apps using Terraform
+name:  Create an Azure OpenAI, LangChain, ChromaDB, and Chainlit ChatGPT-like application in Azure Container Apps using Terraform
 description: This sample shows how to create two Azure Container Apps that use OpenAI, LangChain, ChromaDB, and Chainlit using Terraform.
 urlFragment: container-apps-openai
 ---
